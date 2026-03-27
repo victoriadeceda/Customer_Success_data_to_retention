@@ -1,5 +1,3 @@
-This project showcases a Customer Success Manager assessment for Beyond Pricing. It includes a customer-facing presentation on Health Score and Base Price, an executive business review focused on renewal and ROI, and a sample email response. The goal was to demonstrate product education, strategic account management and analytical thinking.
-
 ## Teaching core concepts
 
 Context: a new customer that's only been using the tool for a few months without making adjustments to fully exploit Beyond's value. 
