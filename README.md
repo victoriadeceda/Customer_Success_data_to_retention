@@ -85,6 +85,11 @@ We need to think fast and do the math:
 - How much would a person cost? Approx 40k per year while Beyond's investment is 4.4k.
 - Fight back: ''*Totally understandable. This is exactly what Beyond is for, we manage the revenue for you. If you were to hire someone your investment will jump to 40k per year while Beyond is costing you 4.4k. Then the 60k profit you made will definetly be impacted by this*''
 
+Data:
+
+<img width="891" height="273" alt="Screenshot 2026-03-27 at 17 34 01" src="https://github.com/user-attachments/assets/31c7cad2-819d-42ef-81dc-4dc389973fde" />
+
+
 ## Email Communication
 
 ### Inquiry
